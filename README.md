@@ -47,3 +47,6 @@ A Python application that uses webcam hand tracking to control the PC's mouse cu
 2. MediaPipe Handlandmarker detects your hand and extracts 21 3D landmarks.
 3. Depending on the distance between specific landmarks (e.g., thumb tip and index tip), the application interprets the gesture (like a pinch).
 4. `pyautogui` is then called to execute the corresponding mouse action (move, click, scroll). 
+
+##Licence 
+Open source, feel free to do anything with this
